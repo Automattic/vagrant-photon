@@ -3,7 +3,7 @@
 add-apt-repository -y ppa:ondrej/php
 apt-get update
 apt-get -y install subversion apache2 libapache2-mod-php7.0 optipng pngquant \
-  php-pear php7.0-dev libgraphicsmagick1-dev php7.0-curl
+  php-pear php7.0-dev libgraphicsmagick1-dev php7.0-curl php7.0-gd
 
 yes "\n" | pecl -d preferred_state=beta install -s gmagick
 

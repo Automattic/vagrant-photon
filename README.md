@@ -13,6 +13,6 @@ A [Vagrant](https://www.vagrantup.com/) configuration for developing [Photon](ht
 
 The Photon source code is now in the `photon` directory inside `vagrant-photon`.
 
-You can access it by visiting http://localhost:8000/.
+You can access it by visiting [http://localhost:8000/](http://localhost:8000/).
 
-Try it: http://localhost:8000/s.w.org/about/images/logos/wordpress-logo-notext-rgb.png?colorize=241,131,30&filter=negate
+Try it: [http://localhost:8000/s.w.org/about/images/logos/wordpress-logo-notext-rgb.png?colorize=241,131,30&filter=negate](http://localhost:8000/s.w.org/about/images/logos/wordpress-logo-notext-rgb.png?colorize=241,131,30&filter=negate)
